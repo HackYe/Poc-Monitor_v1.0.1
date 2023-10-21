@@ -5467,6 +5467,7 @@ For more details, please review the linked advisory on this CVE.
 - [Vulnmachines/confluence-cve-2023-22515](https://github.com/Vulnmachines/confluence-cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/confluence-cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/confluence-cve-2023-22515">
 - [iveresk/CVE-2023-22515](https://github.com/iveresk/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-22515">
 - [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/youcannotseemeagain/CVE-2023-22515_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/youcannotseemeagain/CVE-2023-22515_RCE">
+- [DsaHen/cve-2023-22515-](https://github.com/DsaHen/cve-2023-22515-)	<img alt="forks" src="https://img.shields.io/github/forks/DsaHen/cve-2023-22515-">	<img alt="stars" src="https://img.shields.io/github/stars/DsaHen/cve-2023-22515-">
 
 ---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
