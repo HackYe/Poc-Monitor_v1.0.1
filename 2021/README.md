@@ -5594,6 +5594,10 @@
 > The identity authentication bypass vulnerability found in some Dahua products during the login process. Attackers can bypass device identity authentication by constructing malicious data packets.
 - [haingn/CVE-2021-33044](https://github.com/haingn/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/CVE-2021-33044">
 - [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/LoHongCam-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/LoHongCam-CVE-2021-33044">
+- [jorhelp/Ingram](https://github.com/jorhelp/Ingram)	<img alt="forks" src="https://img.shields.io/github/forks/jorhelp/Ingram">	<img alt="stars" src="https://img.shields.io/github/stars/jorhelp/Ingram">
+- [Alonzozzz/alonzzzo](https://github.com/Alonzozzz/alonzzzo)	<img alt="forks" src="https://img.shields.io/github/forks/Alonzozzz/alonzzzo">	<img alt="stars" src="https://img.shields.io/github/stars/Alonzozzz/alonzzzo">
+- [dorkerdevil/CVE-2021-33044](https://github.com/dorkerdevil/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-33044">
+- [bp2008/DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/bp2008/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/bp2008/DahuaLoginBypass">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)
