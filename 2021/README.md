@@ -4332,6 +4332,7 @@
 - [TakenoSite/Simple-CVE-2021-36260](https://github.com/TakenoSite/Simple-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/Simple-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/Simple-CVE-2021-36260">
 - [TakenoSite/RemoteUploader-CVE-2021-36260](https://github.com/TakenoSite/RemoteUploader-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/RemoteUploader-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/RemoteUploader-CVE-2021-36260">
 - [Live-Hack-CVE/CVE-2021-36260](https://github.com/Live-Hack-CVE/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36260">
+- [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/HIK-CVE-2021-36260-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/HIK-CVE-2021-36260-Exploit">
 
 ---
 ## CVE-2021-3623 (2022-03-02T23:15:00)
@@ -5592,6 +5593,7 @@
 ## CVE-2021-33044 (2021-09-15T22:15:00)
 > The identity authentication bypass vulnerability found in some Dahua products during the login process. Attackers can bypass device identity authentication by constructing malicious data packets.
 - [haingn/CVE-2021-33044](https://github.com/haingn/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/CVE-2021-33044">
+- [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/LoHongCam-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/LoHongCam-CVE-2021-33044">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)
