@@ -314,6 +314,7 @@
 - [pabloec20/rapidreset](https://github.com/pabloec20/rapidreset)	<img alt="forks" src="https://img.shields.io/github/forks/pabloec20/rapidreset">	<img alt="stars" src="https://img.shields.io/github/stars/pabloec20/rapidreset">
 - [secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient)	<img alt="forks" src="https://img.shields.io/github/forks/secengjeff/rapidresetclient">	<img alt="stars" src="https://img.shields.io/github/stars/secengjeff/rapidresetclient">
 - [studiogangster/CVE-2023-44487](https://github.com/studiogangster/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2023-44487">
+- [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ReToCode/golang-CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ReToCode/golang-CVE-2023-44487">
 
 ---
 ## CVE-2023-44268 ()
