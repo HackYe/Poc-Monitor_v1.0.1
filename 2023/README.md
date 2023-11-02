@@ -225,6 +225,11 @@
 - [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4698">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4698">
 
 ---
+## CVE-2023-46974 ()
+> 
+- [yte121/CVE-2023-46974](https://github.com/yte121/CVE-2023-46974)	<img alt="forks" src="https://img.shields.io/github/forks/yte121/CVE-2023-46974">	<img alt="stars" src="https://img.shields.io/github/stars/yte121/CVE-2023-46974">
+
+---
 ## CVE-2023-4696 (2023-09-01T01:15:00)
 > Improper Access Control in GitHub repository usememos/memos prior to 0.13.2.
 - [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
