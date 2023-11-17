@@ -589,6 +589,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
 
 ---
+## CVE-2023-44796 ()
+> 
+- [Hebing123/CVE-2023-44796](https://github.com/Hebing123/CVE-2023-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Hebing123/CVE-2023-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Hebing123/CVE-2023-44796">
+
+---
 ## CVE-2023-44487 (2023-10-10T14:15:00)
 > The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
