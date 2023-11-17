@@ -302,6 +302,7 @@
 ## CVE-2023-47246 ()
 > 
 - [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
+- [W01fh4cker/CVE-2023-47246-EXP](https://github.com/W01fh4cker/CVE-2023-47246-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-47246-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-47246-EXP">
 
 ---
 ## CVE-2023-47184 ()
