@@ -845,6 +845,17 @@ We recommend upgrading past commit 3044b16e7c6fe5d24b1cdbcf1bd0a9d92d1ebd81.
 - [nidhi7598/linux-4.19.72_net_CVE-2023-4208](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4208)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_net_CVE-2023-4208">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_net_CVE-2023-4208">
 
 ---
+## CVE-2023-4207 (2023-09-06T14:15:00)
+> A use-after-free vulnerability in the Linux kernel's net/sched: cls_fw component can be exploited to achieve local privilege escalation.
+
+When fw_change() is called on an existing filter, the whole tcf_result struct is always copied into the new instance of the filter. This causes a problem when updating a filter bound to a class, as tcf_unbind_filter() is always called on the old instance in the success path, decreasing filter_cnt of the still referenced class and allowing it to be deleted, leading to a use-after-free.
+
+We recommend upgrading past commit 76e42ae831991c828cffa8c37736ebfb831ad5ec.
+
+
+- [nidhi7598/linux-4.19.72_net_CVE-2023-4207](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_net_CVE-2023-4207">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_net_CVE-2023-4207">
+
+---
 ## CVE-2023-4206 (2023-09-06T14:15:00)
 > A use-after-free vulnerability in the Linux kernel's net/sched: cls_route component can be exploited to achieve local privilege escalation.
 
