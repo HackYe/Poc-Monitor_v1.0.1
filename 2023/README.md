@@ -2419,6 +2419,15 @@ An application is not vulnerable if any of the following is true:
 - [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations)	<img alt="forks" src="https://img.shields.io/github/forks/jzheaux/cve-2023-34035-mitigations">	<img alt="stars" src="https://img.shields.io/github/stars/jzheaux/cve-2023-34035-mitigations">
 
 ---
+## CVE-2023-34034 (2023-07-19T15:15:00)
+> Using "**" as a pattern in Spring Security configuration 
+for WebFlux creates a mismatch in pattern matching between Spring 
+Security and Spring WebFlux, and the potential for a security bypass.
+
+
+- [hotblac/cve-2023-34034](https://github.com/hotblac/cve-2023-34034)	<img alt="forks" src="https://img.shields.io/github/forks/hotblac/cve-2023-34034">	<img alt="stars" src="https://img.shields.io/github/stars/hotblac/cve-2023-34034">
+
+---
 ## CVE-2023-33977 (2023-06-06T19:15:00)
 > Kiwi TCMS is an open source test management system for both manual and automated testing. Kiwi TCMS allows users to upload attachments to test plans, test cases, etc. Earlier versions of Kiwi TCMS had introduced upload validators in order to prevent potentially dangerous files from being uploaded and Content-Security-Policy definition to prevent cross-site-scripting attacks. The upload validation checks were not 100% robust which left the possibility to circumvent them and upload a potentially dangerous file which allows execution of arbitrary JavaScript in the browser. Additionally we've discovered that Nginx's `proxy_pass` directive will strip some headers negating protections built into Kiwi TCMS when served behind a reverse proxy. This issue has been addressed in version 12.4. Users are advised to upgrade. Users unable to upgrade who are serving Kiwi TCMS behind a reverse proxy should make sure that additional header values are still passed to the client browser. If they aren't redefining them inside the proxy configuration.
 - [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-33977">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-33977">
