@@ -3390,6 +3390,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
 - [Fw-fW-fw/CVE-2023-28432-minio_update_rce](https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce)	<img alt="forks" src="https://img.shields.io/github/forks/Fw-fW-fw/CVE-2023-28432-minio_update_rce">	<img alt="stars" src="https://img.shields.io/github/stars/Fw-fW-fw/CVE-2023-28432-minio_update_rce">
 - [Chocapikk/CVE-2023-28432](https://github.com/Chocapikk/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-28432">
+- [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-28432">
+- [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
@@ -4932,6 +4934,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-24078](https://github.com/Live-Hack-CVE/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24078">
 - [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-24078">
 - [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/CVE-2023-24078">
+- [ag-rodriguez/CVE-2023-24078](https://github.com/ag-rodriguez/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/ag-rodriguez/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/ag-rodriguez/CVE-2023-24078">
+- [d2cy/CVEs](https://github.com/d2cy/CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/d2cy/CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/d2cy/CVEs">
 
 ---
 ## CVE-2023-24070 (2023-01-23T05:15:00)
