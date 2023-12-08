@@ -1006,6 +1006,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
 
 ---
+## CVE-2023-41613 ()
+> 
+- [Eafz/cve-2023-41613](https://github.com/Eafz/cve-2023-41613)	<img alt="forks" src="https://img.shields.io/github/forks/Eafz/cve-2023-41613">	<img alt="stars" src="https://img.shields.io/github/stars/Eafz/cve-2023-41613">
+
+---
 ## CVE-2023-41538 (2023-08-30T14:15:00)
 > phpjabbers PHP Forum Script 3.0 is vulnerable to Cross Site Scripting (XSS) via the keyword parameter.
 - [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-41538-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-41538-PoC">
