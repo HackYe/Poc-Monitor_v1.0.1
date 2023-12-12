@@ -3347,7 +3347,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-28771 (2023-04-25T02:15:00)
 > Improper error message handling in Zyxel ZyWALL/USG series firmware versions 4.60 through 4.73, VPN series firmware versions 4.60 through 5.35, USG FLEX series firmware versions 4.60 through 5.35, and ATP series firmware versions 4.60 through 5.35, which could allow an unauthenticated attacker to execute some OS commands remotely by sending crafted packets to an affected device.
 - [BenHays142/CVE-2023-28771-PoC](https://github.com/BenHays142/CVE-2023-28771-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BenHays142/CVE-2023-28771-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BenHays142/CVE-2023-28771-PoC">
-- [WhiteOwl-Pub/PoC-CVE-2023-28771](https://github.com/WhiteOwl-Pub/PoC-CVE-2023-28771)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-CVE-2023-28771">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-CVE-2023-28771">
+- [WhiteOwl-Pub/Zyxel-PoC-CVE-2023-28771](https://github.com/WhiteOwl-Pub/Zyxel-PoC-CVE-2023-28771)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/Zyxel-PoC-CVE-2023-28771">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/Zyxel-PoC-CVE-2023-28771">
 - [AKuzmanHSCS/Microsoft-Exchange-RCE](https://github.com/AKuzmanHSCS/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AKuzmanHSCS/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AKuzmanHSCS/Microsoft-Exchange-RCE">
 - [DLandonHSCS/Discord-RCE](https://github.com/DLandonHSCS/Discord-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DLandonHSCS/Discord-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DLandonHSCS/Discord-RCE">
 
@@ -3869,6 +3869,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 ## CVE-2023-26035 (2023-02-25T02:15:00)
 > ZoneMinder is a free, open source Closed-circuit television software application for Linux which supports IP, USB and Analog cameras. Versions prior to 1.36.33 and 1.37.33 are vulnerable to Unauthenticated Remote Code Execution via Missing Authorization. There are no permissions check on the snapshot action, which expects an id to fetch an existing monitor but can be passed an object to create a new one instead. TriggerOn ends up calling shell_exec using the supplied Id. This issue is fixed in This issue is fixed in versions 1.36.33 and 1.37.33.
 - [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-26035">
+- [m3m0o/zoneminder-snapshots-rce-poc](https://github.com/m3m0o/zoneminder-snapshots-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/zoneminder-snapshots-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/zoneminder-snapshots-rce-poc">
 
 ---
 ## CVE-2023-2598 (2023-06-01T01:15:00)
@@ -5615,6 +5616,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333](https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333">
 - [emanueldosreis/nmap-CVE-2023-23333-exploit](https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/nmap-CVE-2023-23333-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/nmap-CVE-2023-23333-exploit">
 - [WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333](https://github.com/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-23331 (2023-01-24T01:15:00)
