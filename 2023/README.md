@@ -43,6 +43,11 @@
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
 
 ---
+## CVE-2023-6710 (2023-12-12T22:15:00)
+> A flaw was found in the mod_proxy_cluster in the Apache server. This issue may allow a malicious user to add a script in the 'alias' parameter in the URL to trigger the stored cross-site scripting (XSS) vulnerability. By adding a script on the alias parameter on the URL, it adds a new virtual host and adds the script to the cluster-manager page. The impact of this vulnerability is considered as Low, as the cluster_manager URL should not be exposed outside and is protected by user/password.
+- [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710)	<img alt="forks" src="https://img.shields.io/github/forks/DedSec-47/CVE-2023-6710">	<img alt="stars" src="https://img.shields.io/github/stars/DedSec-47/CVE-2023-6710">
+
+---
 ## CVE-2023-66975 ()
 > 
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
