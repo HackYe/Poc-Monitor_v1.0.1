@@ -196,6 +196,7 @@
 - [WLaoDuo/CVE-2023-51385_poc-test](https://github.com/WLaoDuo/CVE-2023-51385_poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/WLaoDuo/CVE-2023-51385_poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/WLaoDuo/CVE-2023-51385_poc-test">
 - [WLaoDuo/CVE-2023-51385_poc-windows](https://github.com/WLaoDuo/CVE-2023-51385_poc-windows)	<img alt="forks" src="https://img.shields.io/github/forks/WLaoDuo/CVE-2023-51385_poc-windows">	<img alt="stars" src="https://img.shields.io/github/stars/WLaoDuo/CVE-2023-51385_poc-windows">
 - [zhulin2/testCVE-2023-51385](https://github.com/zhulin2/testCVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/zhulin2/testCVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/zhulin2/testCVE-2023-51385">
+- [jacknickelson/poc-cve-2023-51385](https://github.com/jacknickelson/poc-cve-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/jacknickelson/poc-cve-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/jacknickelson/poc-cve-2023-51385">
 
 ---
 ## CVE-2023-51281 ()
