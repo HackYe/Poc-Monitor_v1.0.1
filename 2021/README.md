@@ -2888,7 +2888,7 @@
 - [dadvlingd/CVE-2021-4034](https://github.com/dadvlingd/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/dadvlingd/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/dadvlingd/CVE-2021-4034">
 - [kuckibf/Popular-CVEs](https://github.com/kuckibf/Popular-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/kuckibf/Popular-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/kuckibf/Popular-CVEs">
 - [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
-- [crypticdante/CVE-2021-4034_Python3](https://github.com/crypticdante/CVE-2021-4034_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/crypticdante/CVE-2021-4034_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/crypticdante/CVE-2021-4034_Python3">
+- [H3xL00m/CVE-2021-4034_Python3](https://github.com/H3xL00m/CVE-2021-4034_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/H3xL00m/CVE-2021-4034_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/H3xL00m/CVE-2021-4034_Python3">
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/arthepsy/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034">
 - [A1vinSmith/CVE-2021-4034](https://github.com/A1vinSmith/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2021-4034">
 - [zxc2007/CVE-2021-4034](https://github.com/zxc2007/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/zxc2007/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/zxc2007/CVE-2021-4034">
@@ -2899,6 +2899,7 @@
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 - [JohnGilbert57/CVE-2021-4034-Capture-the-flag](https://github.com/JohnGilbert57/CVE-2021-4034-Capture-the-flag)	<img alt="forks" src="https://img.shields.io/github/forks/JohnGilbert57/CVE-2021-4034-Capture-the-flag">	<img alt="stars" src="https://img.shields.io/github/stars/JohnGilbert57/CVE-2021-4034-Capture-the-flag">
 - [Part01-Pai/Polkit-Permission-promotion-compiled](https://github.com/Part01-Pai/Polkit-Permission-promotion-compiled)	<img alt="forks" src="https://img.shields.io/github/forks/Part01-Pai/Polkit-Permission-promotion-compiled">	<img alt="stars" src="https://img.shields.io/github/stars/Part01-Pai/Polkit-Permission-promotion-compiled">
+- [cdxiaodong/CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2021-4034-touch">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2021-4034-touch">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
