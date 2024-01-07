@@ -23,7 +23,7 @@ const enableRelatedQuery = true
 const cveQuery = "CVE-20"
 
 // 通知函数
-var barkToken = os.Getenv("barkToken")
+var barkToken = os.Getenv("feishuToken")
 var barkGroup = "Poc-Monitor"
 var barkMsgLimit = 150
 
@@ -42,7 +42,7 @@ func Notice(updateItems *[]*Item) {
 			content = content[:nBarkMsgLimit] + "..."
 		}
 		fmt.Printf("[+] 准备发送 %s %s\n", name, content)
-		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, name, content)
+		webhook := fmt.Sprintf(feishuToken, name, content)
 		option := bark.Option{Webhook: webhook}
 		option.Url = &item.HtmlUrl
 		option.Group = &barkGroup
