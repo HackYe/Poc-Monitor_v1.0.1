@@ -23,7 +23,7 @@ const enableRelatedQuery = true
 const cveQuery = "CVE-20"
 
 // 通知函数
-var barkToken = os.Getenv("feishuToken")
+var feishuToken = os.Getenv("feishuToken")
 var barkGroup = "Poc-Monitor"
 var barkMsgLimit = 150
 
